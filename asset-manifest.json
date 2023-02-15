@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/furniture3d/static/css/main.e6c13ad2.css",
+    "main.js": "/furniture3d/static/js/main.10b60770.js",
+    "index.html": "/furniture3d/index.html",
+    "main.e6c13ad2.css.map": "/furniture3d/static/css/main.e6c13ad2.css.map",
+    "main.10b60770.js.map": "/furniture3d/static/js/main.10b60770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10b60770.js"
+  ]
+}
